@@ -17,4 +17,6 @@ This practical covers:
 ---
 
 ## 📄 Practical Document (PDF)
-👉 **[View Practical-8 PDF (`24012011122_RUDRA_PATEL_PR8.pdf`)](./24012011122_RUDRA_PATEL_PR8.pdf)**
+👉 **[View Practical-8 PDF (`4012011122_RUDRA_PATEL_PRACTICAL_8_MAD.pdf
+`)](./24012011122_RUDRA_PATEL_PRACTICAL_8_MAD.pdf
+)**
